@@ -47,3 +47,5 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 *.swo
+/mini_dtx_case
+/.agents
