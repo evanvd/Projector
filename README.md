@@ -5,6 +5,7 @@
 ---
 
 ## 📸 Внешний вид и рендеры
+<img width="1730" height="1230" alt="изображение" src="https://github.com/user-attachments/assets/28045515-1e32-4e1b-8a9d-8aca203bed35" />
 
 ---
 
