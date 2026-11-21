@@ -47,5 +47,11 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 *.swo
+
 /mini_dtx_case
 /.agents
+GEMINI.md
+config.json
+PROJECT.md
+TEST_INFRA.md
+TEST_READY.md
